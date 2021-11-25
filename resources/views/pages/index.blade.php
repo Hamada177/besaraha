@@ -9,8 +9,8 @@
 @section('style')
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ URL::asset('css/main_h.css') }}">
-    <link rel="stylesheet" href="{{ URL::asset('css/responsive.css') }}">
+    <link rel="stylesheet" href="css/main_h.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <!-- Font Awesome Library -->
     <link rel="stylesheet" href="{{ URL::asset('css/all.min.css') }}" />
 
